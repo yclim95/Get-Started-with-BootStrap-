@@ -3,7 +3,7 @@ Wondering on how you get started with BootStrap. Then, check this out by going t
 
 ## Basic needs 
 ### 1. CSS folder 
-bootstrap.css
+*bootstrap.css*
 
 ### 2. js folder 
-bootstrap.js 
+*bootstrap.js*
