@@ -7,3 +7,6 @@ Wondering on how you get started with BootStrap. Then, check this out by going t
 
 ### 2. js folder 
 *bootstrap.js*
+
+## Preview 
+![BootStrapStarterImage]()
