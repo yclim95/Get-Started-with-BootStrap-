@@ -9,4 +9,4 @@ Wondering on how you get started with BootStrap. Then, check this out by going t
 *bootstrap.js*
 
 ## Preview 
-![BootStrapStarterImage]()
+![BootStrapStarterImage](https://github.com/yclim95/Get-Started-with-BootStrap-/blob/master/img/bootstrapStarter.png)
